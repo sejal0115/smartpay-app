@@ -1,6 +1,6 @@
 # 💳 SmartPay – Digital Wallet Experience
 
-![SmartPay Banner](Banner.png)
+![SmartPay Banner](/public/Banner.png)
 
 > A scalable, user-first fintech experience designed to simplify digital payments.
 
@@ -57,11 +57,11 @@ Managing multiple cards, tracking savings, and handling peer-to-peer payments is
 
 ### 🌞 Light Mode
 
-![Light Mode](Mob_Light.png)
+![Light Mode](/public/Mob_Light.png)
 
 ### 🌙 Dark Mode
 
-![Dark Mode](Mob_Dark.png)
+![Dark Mode](/public/Mob_Dark.png)
 
 ---
 
