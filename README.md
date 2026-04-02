@@ -53,18 +53,6 @@ Managing multiple cards, tracking savings, and handling peer-to-peer payments is
 
 ---
 
-## 📱 Screenshots
-
-### 🌞 Light Mode
-
-![Light Mode](/public/Mob_Light.png)
-
-### 🌙 Dark Mode
-
-![Dark Mode](/public/Mob_Dark.png)
-
----
-
 ## 🌐 Live Demo
 
 👉 https://smartpay-app.netlify.app
